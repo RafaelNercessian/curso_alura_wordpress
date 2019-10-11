@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-http/guzzle6-adapter": "^2.0",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "cmfcmf/openweathermap-php-api": "^3.0"
+    }
+}

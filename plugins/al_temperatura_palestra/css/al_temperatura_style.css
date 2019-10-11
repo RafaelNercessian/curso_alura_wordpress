@@ -1,0 +1,11 @@
+.temperatura-titulo{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.temperatura{
+    text-align: center;
+}
+.container-temperatura{
+    line-height: 2em;
+}
