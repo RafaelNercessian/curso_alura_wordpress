@@ -1,0 +1,9 @@
+.sucesso{
+    color: green;
+    margin-top: 1em;
+}
+
+.erro{
+    color: red;
+    margin-top: 1em;
+}
